@@ -1,16 +1,29 @@
-### Hi there 👋
+# doener006's GitHub Profile
 
-<!--
-**doener006/doener006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This is the README.md for my GitHub-Profile. I am a Software-Developer currently
+studying and working in Germany. 
 
-Here are some ideas to get you started:
+## Languages
+I have experiences in many programming languages using 3-layer-architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Primary (my goto languages)
+ - Java
+ - HTML, CSS, JS using Angular
+ - Databases using Hibernate and SQL
+
+### Secondary
+ - Python
+ - Node.js
+ - React
+  
+### Currently learning
+ - Haskell
+ 
+## IDE
+
+A slave to JetBrains-Products
+ - IntelliJ
+ - PyCharm
+ - WebStorm
+ - Datagrip
+ 
